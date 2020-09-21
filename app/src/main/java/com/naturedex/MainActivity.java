@@ -1,3 +1,4 @@
+
 package com.naturedex;
 
 import androidx.appcompat.app.AppCompatActivity;
