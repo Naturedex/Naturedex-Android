@@ -6,9 +6,10 @@
     <application
 
         android:allowBackup="true"
+        android:supportsRtl="true"
+        android:label="Naturedex"
         android:icon="@mipmap/icon"
         android:roundIcon="@mipmap/round_icon"
-        android:supportsRtl="true"
         android:theme="@style/style">
 
         <activity android:name=".MainActivity">
