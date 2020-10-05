@@ -1,3 +1,21 @@
-This is a custom license. Naturedex is not really open source. It uses Github as a home for information, contribution, and storage. The rule is that you can contribute and view,
-but we do not want anything made in the likeness of Naturedex, and it is under copyright.
-                                                                                 © Isaac Weingrad
+Naturedex Web License
+Copyright (C) 2020, All Rights Reserved.
+
+The following are copyright holders of the software.
+- Aneesh Raghavan
+- Issac Weingrad
+
+Nobody other than the copyright holder mentioned above may redistribute
+any portion of or modify this software without explicit permission from 
+the copyright holder. Any person who has access to the source code may
+view and contribute to the source code, by the terms in the CONTRIBUTING
+file that is provided with the soure code of this software. Modified code
+must be public in entirety.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
